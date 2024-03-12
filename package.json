@@ -1,0 +1,14 @@
+{
+  "name": "emprende-full-stack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jorge Ortiz <jorgealortiz@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
